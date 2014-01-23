@@ -1,4 +1,4 @@
-# olivierlacan/feedback
+# olivierlacan/ask
 
 This is a quick little ask-me-anything type of repository.
 
@@ -11,7 +11,7 @@ If you have any technical problems with Code School, your best bet is to [ask Co
 ### Ask a question
 
 Asking a question is as easy as
-[creating a new issue](https://github.com/olivierlacan/feedback/issues/new) on this
+[creating a new issue](https://github.com/olivierlacan/ask/issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. Once I answer I'll close the
@@ -23,7 +23,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/olivierlacan/feedback/issues?sort=created&direction=desc&state=closed&page=1)
+Check out the [Closed Issues](https://github.com/olivierlacan/ask/issues?sort=created&direction=desc&state=closed&page=1)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
